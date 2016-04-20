@@ -1,0 +1,15 @@
+{
+  "name": "ppotluck",
+  "version": "1.0.0",
+  "description": "Host a Pinterest theme potluck!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tom Coughlin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
