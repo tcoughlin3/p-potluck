@@ -11,5 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1"
   }
 }
